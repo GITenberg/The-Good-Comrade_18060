@@ -1,0 +1,35 @@
+_repo: The-Good-Comrade_18060
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Betts, Anna Whelan
+    gutenberg_agent_id: '7782'
+    url: http://www.gutenberg.org/2009/agents/7782
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Silberrad, Una L.
+    aliases:
+    - Silberrad, U. L. (Una L.)
+    - Silberrad, Una Lucy
+    birthdate: 1872
+    deathdate: 1955
+    gutenberg_agent_id: '7781'
+    url: http://www.gutenberg.org/2009/agents/7781
+description: ''
+gutenberg_issued: '2006-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18060'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcc 'PR'
+title: The Good Comrade
+url: http://www.gutenberg.org/ebooks/18060
